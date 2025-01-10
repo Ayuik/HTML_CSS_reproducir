@@ -27,7 +27,7 @@ p {
 
 }
 
-#avocado {
+#pear {
     order: 1;
     background-color: rgb(250, 198, 121);
 }
@@ -57,7 +57,7 @@ p {
     background-color: rgb(222, 250, 121);
 }
 
-#cornonthecob {
+#peach {
     order: 7;
     background-color: rgb(250, 121, 181);
 }
@@ -72,7 +72,7 @@ p {
     background-color: rgb(121, 140, 250);
 }
 
-#aubergine {
+#potato {
     order: 10;
     background-color: rgb(157, 250, 121);
 }
@@ -82,7 +82,7 @@ p {
     background-color: rgb(250, 121, 121);
 }
 
-#pineapple {
+#cucumber {
     order: 12;
     background-color: rgb(121, 188, 250);
 }
@@ -95,4 +95,15 @@ p {
 #onion {
     order: 14;
     background-color: rgb(250, 121, 218);
+}
+
+.meaning {
+    display: none;
+    width: 24%;
+    height: 70px;
+    margin: 0.3%;
+}
+
+.meaning p {
+    font-size: small;
 }
