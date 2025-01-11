@@ -19,6 +19,7 @@ h1 {
     width: 24%;
     height: 70px;
     margin: 0.3%;
+    visibility: visible;
 }
 
 p {
@@ -105,5 +106,5 @@ p {
 }
 
 .meaning p {
-    font-size: small;
+    font-size: smaller;
 }
