@@ -1,4 +1,4 @@
-//Los recuadros desaparecen al clickear en ellos y reaparecen al clickear en el espacio vacío
+//Los recuadros desaparecen al clickear en ellos y reaparecen al clickear en el espacio vacío (pero hay un fallo porque ni reaparece el del recuadro clickeado sino en el orden que desaparecieron)
 
 const container = document.getElementById('container');
 const allBoxes = container.querySelectorAll('.box');
