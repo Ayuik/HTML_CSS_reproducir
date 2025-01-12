@@ -99,12 +99,5 @@ p {
 }
 
 .meaning {
-    display: none;
-    width: 24%;
-    height: 70px;
-    margin: 0.3%;
-}
-
-.meaning p {
     font-size: smaller;
 }
