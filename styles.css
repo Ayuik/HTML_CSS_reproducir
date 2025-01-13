@@ -97,14 +97,3 @@ p {
     order: 14;
     background-color: rgb(250, 121, 218);
 }
-
-.meaning {
-    display: none;
-    width: 24%;
-    height: 70px;
-    margin: 0.3%;
-}
-
-.meaning p {
-    font-size: smaller;
-}
