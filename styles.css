@@ -22,6 +22,10 @@ h1 {
     visibility: visible;
 }
 
+.hidden {
+    opacity: 0.01;
+}
+
 p {
     font-size: larger;
     text-align: center;
